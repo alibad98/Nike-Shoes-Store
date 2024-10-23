@@ -36,9 +36,8 @@ this project is inspired by "Adrian Hajdin"
 
 ## Pictures of the website
 ![Screenshot 2024-10-23 070539](https://github.com/user-attachments/assets/d0791eba-9d2d-4a4a-8219-8416591316ba)
-![Screenshot 2024-10-23 070618](https://github.![Screenshot 2024-10-23 070757](https://github.com/user-attachments/assets/04103d28-3414-48ca-a8f0-4a12f45c1647)
-com/user-attachments/assets/9b27e0a0-2ac3-4bbf-a6ef-e2dbb20e095f)
-
+![Screenshot 2024-10-23 070618](https://github.com/user-attachments/assets/9b27e0a0-2ac3-4bbf-a6ef-e2dbb20e095f)
+![Screenshot 2024-10-23 070757](https://github.com/user-attachments/assets/04103d28-3414-48ca-a8f0-4a12f45c1647)
 ![Screenshot 2024-10-23 071508](https://github.com/user-attachments/assets/6121c58b-c96c-4a6d-a612-85b4c6220650)
 ![Screenshot 2024-10-23 071250](https://github.com/user-attachments/assets/08ebea04-1bb4-4c22-8001-5cbb056c5f5b)
 ![Screenshot 2024-10-23 071114](https://github.com/user-attachments/assets/959b370c-32a9-44fe-9b23-34d16042386d)
